@@ -1,0 +1,22 @@
+@media only screen and (max-width: 992px) {
+  .button {
+    display: flex;
+    flex-direction: column;
+  }
+  .btn {
+    margin-top: 12px;
+  }
+  .box {
+    margin-left: 15px;
+  }
+  .preview {
+    margin-left: 15px;
+  }
+  .About{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
